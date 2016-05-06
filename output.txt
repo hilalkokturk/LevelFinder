@@ -1,0 +1,8 @@
+1 1 soprano
+2 2 acceptability
+3 1 feldspar
+2 0 spectator
+4 0 justifiability
+3 2 zoologist
+3 0 abstraction
+5 2 limelight
